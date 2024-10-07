@@ -46,7 +46,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/kevinpicon/Documents/Proyecto/jeyis-trenzas-y-peinados",
+    "last_opened_file_path": "/Users/kevinpicon/Documents/Proyecto/jeyis-trenzas-y-peinados/public/assets",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -61,8 +61,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/app" />
       <recent name="$PROJECT_DIR$/public/assets" />
+      <recent name="$PROJECT_DIR$/src/app" />
       <recent name="$PROJECT_DIR$/src/app/styles" />
       <recent name="$PROJECT_DIR$/src/app/components" />
       <recent name="$PROJECT_DIR$/src/app/assets" />
@@ -95,7 +95,7 @@
       <workItem from="1726373691612" duration="367000" />
       <workItem from="1726374085952" duration="3000" />
       <workItem from="1726374102330" duration="21740000" />
-      <workItem from="1727995516648" duration="518000" />
+      <workItem from="1727995516648" duration="867000" />
     </task>
     <task id="LOCAL-00001" summary="Funcional pero sin adjuntar archivos">
       <option name="closed" value="true" />
